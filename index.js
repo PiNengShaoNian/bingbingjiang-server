@@ -16,6 +16,7 @@ app.use(async (ctx, next) => {
     }
 });
 
+app.use(serve('./admin-build'))
 app.use(serve('./upload'))
 
 app.use(koaBodyParser())
