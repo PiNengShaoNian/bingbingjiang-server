@@ -16,6 +16,6 @@
     "koa-multer": "^1.0.2",
     "koa-router": "^7.4.0",
     "koa-static": "^5.0.0",
-    "mongoose": "^5.7.3"
+    "mongoose": "^5.7.5"
   }
 }
